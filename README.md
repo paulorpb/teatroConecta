@@ -339,3 +339,20 @@ Todos os integrantes devem realizar **contribuições reais** ao repositório. C
 ## Licença
 
 Este projeto é distribuído sob a licença MIT. Consulte o arquivo [`LICENSE`](LICENSE).
+
+
+## Projeto Integrador — Banco de Oportunidades do Recife
+
+  1. Criem o repositório do grupo a partir do modelo: abram https://github.com/jamcabral/template-bo-recife e cliquem em Use this template → Create a new repository. Um integrante cria o repositório e adiciona os demais como colaboradores
+     (Settings → Collaborators).
+  2. Padrão do nome: bo-recife-grupoXX-nome-projeto (ex.: bo-recife-grupo03-agenda-saude).
+  3. Clonem o repositório de vocês:
+  git clone URL_DO_REPOSITORIO_DO_GRUPO
+  cd bo-recife-grupoXX-nome-projeto
+     Não enviem nada para o repositório-base do professor.
+  4. AV1 = documentação + protótipo: escolham um desafio em https://bancodeoportunidades.recife.pe.gov.br/, investiguem o problema com evidências e preencham o README e os arquivos docs/01 a docs/07. A entrega inclui um protótipo
+     navegável com link público (Figma ou Penpot). Confiram o docs/checklist-av1.md e entreguem com a tag v1.0-av1.
+  5. AV2 = o mesmo repositório evoluído para o MVP funcional: código em src/, pelo menos um fluxo principal funcionando de ponta a ponta, testes, validação com 3 métricas, resultados e limitações. Confiram o docs/checklist-av2.md e
+     entreguem com a tag v2.0-av2.
+
+  Façam commits pequenos e frequentes, cada um com a própria conta. O histórico conta como evidência de participação.

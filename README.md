@@ -23,8 +23,10 @@ Cada grupo deverá selecionar um **problema real** publicado no **Banco de Oport
 | Nome | GitHub |
 |---|---|
 | ADRIANO VINICIUS BISPO DA SILVA | AdrianoBispo |
-| | |
-| | |
+| LUCAS PIRES DE ANDRADE | |
+| PAULO RENATO PEREIRA BEZERRA | paulorpb |
+| ERIC SANTOS BISPO DA SILVA | ericbispo |
+| IASMIN BURGOS DE SOUZA | IasmimBurgos |
 
 ---
 

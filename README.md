@@ -20,8 +20,8 @@ Cada grupo deverá selecionar um **problema real** publicado no **Banco de Oport
 
 ### Integrantes
 
-| Nome | GitHub |
-|---|---|
+| Nome | GitHub | Matrícula |
+|---|---|---|
 | ADRIANO VINICIUS BISPO DA SILVA | AdrianoBispo | 1747462 |
 | LUCAS PIRES DE ANDRADE | olucaspas | 01539550 |
 | PAULO RENATO PEREIRA BEZERRA | paulorpb | 1750308 |

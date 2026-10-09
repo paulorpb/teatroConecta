@@ -22,11 +22,11 @@ Cada grupo deverá selecionar um **problema real** publicado no **Banco de Oport
 
 | Nome | GitHub |
 |---|---|
-| ADRIANO VINICIUS BISPO DA SILVA | AdrianoBispo |
-| LUCAS PIRES DE ANDRADE | olucaspas |
-| PAULO RENATO PEREIRA BEZERRA | paulorpb |
-| ERIC SANTOS BISPO DA SILVA | ericbispo |
-| IASMIN BURGOS DE SOUZA | IasmimBurgos |
+| ADRIANO VINICIUS BISPO DA SILVA | AdrianoBispo | 1747462 |
+| LUCAS PIRES DE ANDRADE | olucaspas | 01539550 |
+| PAULO RENATO PEREIRA BEZERRA | paulorpb | 1750308 |
+| ERIC SANTOS BISPO DA SILVA | ericbispo | 1755006 |
+| IASMIN BURGOS DE SOUZA | IasmimBurgos | 1747566 |
 
 ---
 

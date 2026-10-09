@@ -12,16 +12,16 @@ Cada grupo deverá selecionar um **problema real** publicado no **Banco de Oport
 
 ## Identificação da equipe
 
-- Turma:
-- Grupo:
-- Nome do projeto:
-- BO escolhido:
-- Link do BO:
+- Turma: 5NNA
+- Grupo: 
+- Nome do projeto: Teatro Conecta
+- BO escolhido: Ausência de um Sistema de Gestão Integrada para Teatros
+- Link do BO: 
 
 ### Integrantes
 
 | Nome | GitHub |
-|---|---|
+|ADRIANO VINICIUS BISPO DA SILVA|AdrianoBispo|
 | | |
 | | |
 | | |

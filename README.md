@@ -21,7 +21,7 @@ Cada grupo deverá selecionar um **problema real** publicado no **Banco de Oport
 ### Integrantes
 
 | Nome | GitHub |
-|ADRIANO VINICIUS BISPO DA SILVA|AdrianoBispo|
+|---|---|
 | | |
 | | |
 | | |

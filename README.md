@@ -13,17 +13,17 @@ Cada grupo deverá selecionar um **problema real** publicado no **Banco de Oport
 ## Identificação da equipe
 
 - Turma: 5NNA
-- Grupo: 
+- Grupo: 01
 - Nome do projeto: Teatro Conecta
 - BO escolhido: Ausência de um Sistema de Gestão Integrada para Teatros
-- Link do BO: 
+- Link do BO: https://coreto.app.emprel.gov.br/banco-de-bo/ausencia-de-um-sistema-de-gestao-integrada-para-teatros
 
 ### Integrantes
 
 | Nome | GitHub |
 |---|---|
 | ADRIANO VINICIUS BISPO DA SILVA | AdrianoBispo |
-| LUCAS PIRES DE ANDRADE | |
+| LUCAS PIRES DE ANDRADE | olucaspas |
 | PAULO RENATO PEREIRA BEZERRA | paulorpb |
 | ERIC SANTOS BISPO DA SILVA | ericbispo |
 | IASMIN BURGOS DE SOUZA | IasmimBurgos |
